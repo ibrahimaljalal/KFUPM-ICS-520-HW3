@@ -1,0 +1,2 @@
+"""YOU NEED TO CHANGE THIS PATH !!!!!"""
+vm=pd.read_csv("virtual.map",delimiter="\s",header=None)#Note for some reason the virtual.map file path somtimes does not work and you might need the absolute path !!!
